@@ -3,6 +3,10 @@
 "use strict"
 
 const pi = 3.14159; // Mathematical constant
-const greeting = "Hello, world!"; // String constant
-const isJavaScriptFun = true; // Boolean constant
+console.log("Initial value of pi:", pi);
 
+const greeting = "Hello, world!"; // String constant
+console.log("Initial value of greeting:", greeting);
+
+const isJavaScriptFun = true; // Boolean constant
+console.log("Initial value of isJavaScriptFun:", isJavaScriptFun);
